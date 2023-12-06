@@ -1,0 +1,9 @@
+{
+  "id": "tms-reshape-policy",
+  "name": "Reshape Policy",
+  "description": "重装API请求和响应。",
+  "policyImpl": "plugin:${project.groupId}:${project.artifactId}:${project.version}:${project.packaging}/tms.apiman.plugins.reshape_policy.ReshapePolicy",
+  "icon": "pencil-square",
+  "formType": "JsonSchema",
+  "form": "schemas/reshape-policy-PolicyDef.schema"
+}

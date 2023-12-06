@@ -1,0 +1,4 @@
+data/keys/*
+volumes/
+.env
+docker-compose.override.yml

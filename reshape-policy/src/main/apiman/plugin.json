@@ -1,0 +1,6 @@
+{
+  "frameworkVersion": 1.0,
+  "name": "Reshape Policy Plugin",
+  "description": "重装API请求和响应。",
+  "version": "${project.version}"
+}
